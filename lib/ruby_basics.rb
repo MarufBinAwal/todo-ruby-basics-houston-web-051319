@@ -4,12 +4,12 @@ def division(num1, num2 )
 end
 
 def assign_variable(value)
-  n="Bob"
+  value="Bob"
   
 end
 
 def argue(phrase)
-  phrase="I am right you are wrong"
+  phrase="I'm right you are wrong"
   
 end
 
